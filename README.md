@@ -9,6 +9,5 @@
 plt.rc('font', family='NanumBarunGothic')
 
 <소스 코드>
-넘파이 배열 생성하기
+<a href="https://colab.research.google.com/drive/11Di-8xOjYsyZAByG74JpspdNKkqwrTNK?usp=sharing">넘파이 배열 생성하기</a>
 
-https://colab.research.google.com/drive/11Di-8xOjYsyZAByG74JpspdNKkqwrTNK?usp=sharing
