@@ -8,5 +8,6 @@
 !rm ~/.cache/matplotlib –rf
 plt.rc('font', family='NanumBarunGothic')
 
-
+<소스 코드>
 넘파이 배열 생성하기
+
